@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ContactProfileViewController: UITableViewController {
+final class ContactProfileViewController: UITableViewController {
     
     var persons: [Person]?
     

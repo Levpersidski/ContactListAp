@@ -7,7 +7,7 @@
 
 import UIKit
 
-class PersonListViewController: UITableViewController {
+final class PersonListViewController: UITableViewController {
 
     var persons: [Person]?
     

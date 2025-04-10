@@ -39,7 +39,6 @@ struct Person {
         }
         return personsList
     }
-    
 }
 
 
